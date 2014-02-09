@@ -60,6 +60,13 @@ namespace OrderBook
 					    lock (Trades)
 						    Trades.Add(trade);
 
+    					    if (order.OrderQty == trade.Quantity)
+					    {
+						    order = null;
+							break;
+					    }
+
+
 				    }
 
 			    }
