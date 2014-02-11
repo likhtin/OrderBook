@@ -1,5 +1,0 @@
-C:\Code\OrderBook\bin\Debug\OrderBook.dll
-C:\Code\OrderBook\bin\Debug\OrderBook.pdb
-C:\Code\OrderBook\obj\Debug\OrderBook.csprojResolveAssemblyReference.cache
-C:\Code\OrderBook\obj\Debug\OrderBook.dll
-C:\Code\OrderBook\obj\Debug\OrderBook.pdb
